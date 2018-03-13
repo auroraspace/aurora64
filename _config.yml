@@ -2,14 +2,12 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
+url: www.auroraspace.cl/aurora64
 title: Aurora<sup>64</sup>
 email: contacto@auroraspace.cl
 author: Aurora Space
-description: > # "Write an awesome description for your new site here.
-  You can edit this line in _config.yml. It will appear in your document
-  head meta (for Google search results) and in your feed.xml site 
-  description."
+description: Aurora64 nano satellite constellation for IoT communications
+image: /img/logos/aurora.png
 
 # ----------------------- #
 #    Jekyll & Plugins     #

@@ -6,8 +6,6 @@
     <meta name="description" content="{{ site.description }}">
     <meta name="author" content="{{ site.author }}">
 
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
-    
     <!-- Open Graph -->
     <meta property="og:title" content="{{ site.title }}" />
     <meta property="og:description" content="{{ site.description }}" />
@@ -15,6 +13,9 @@
     <meta property="og:image" content="{{ site.image | prepend: site.url }}" />
 	<meta property="og:image:width" content="400" />
     <meta property="og:type" content="website" />
+    
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    
 
     <!-- Favicon (http://realfavicongenerator.net)-->
     <link rel="apple-touch-icon" sizes="57x57" href="/img/icons/apple-touch-icon-57x57.png">
