@@ -22,6 +22,51 @@ permalink: pretty
 # ----------------------- #
 #   3rd Party Settings    #
 # ----------------------- #
+# Team names, titles and social links
+people:
+- name: Carlos González
+  pic: cgonzalez
+  position:
+  social:
+    - title: twitter
+      url: https://twitter.com/cegonzalezspace
+    - title: linkedin
+      url: https://cl.linkedin.com/in/carlosgonzalezcortes/en
+    - title: github
+      url: https://github.com/carlgonz
+
+- name: Alex Becerra
+  pic: abecerra
+  position:
+  social:
+    - title: twitter
+      url:
+    - title: linkedin
+      url: https://www.linkedin.com/pub/alex-becerra-saavedra/68/372/189/en
+    - title: github
+      url: https://github.com/alexbecerra
+
+- name: Camilo Rojas
+  pic: crojas
+  position:
+  social:
+    - title: twitter
+      url: https://twitter.com/crojasmilla
+    - title: linkedin
+      url: https://www.linkedin.com/pub/camilo-rojas-milla/32/48/166/en
+    - title: github
+      url: https://github.com/keimi
+      
+- name: Francisco Anguita
+  pic: fanguita
+  position:
+  social:
+    - title: twitter
+      url: 
+    - title: linkedin
+      url: https://www.linkedin.com/in/francisco-anguita-91127a5/es
+    - title: github
+      url: 
 
 social:
   - title: twitter
