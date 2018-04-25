@@ -4,6 +4,7 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+
 body,
 html {
     width: 100%;
@@ -167,4 +168,11 @@ p.copyright {
 
 .big {
     height: 150px;
+}
+
+.appl{
+    /*background: linear-gradient( rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4) ), url(../img/sea_transport.jpg);*/
+    background-size: 300px 300px;
+    /*color: white;*/
+    font-size: large;
 }
